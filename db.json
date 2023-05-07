@@ -1,0 +1,151 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Aceite",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/aceite.png",
+      "categoria": "Básicos"
+    },
+    {
+      "id": 2,
+      "nombre": "carne roja",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/carne.png",
+      "categoria": "Carnes"
+    },
+    {
+      "id": 3,
+      "nombre": "Café",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/coffeClasic.png",
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 4,
+      "nombre": "Café en lata",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/coldBrewCoffee.png",
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 5,
+      "nombre": "Galletas",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/cookiebox.png",
+      "categoria": "Golosinas"
+    },
+    {
+      "id": 6,
+      "nombre": "Croquetas",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/dogFood.png",
+      "categoria": "Mascotas"
+    },
+    {
+      "id": 7,
+      "nombre": "Galletas de mantequilla de maní",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/img1,png.png",
+      "categoria": "Golosinas"
+    },
+    {
+      "id": 5,
+      "nombre": "Leche",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/milk.png",
+      "categoria": "Básicos"
+    },
+    {
+      "id": 6,
+      "nombre": "ojuelas",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/ojuelas.png",
+      "categoria": "Desayuno"
+    },
+    {
+      "id": 7,
+      "nombre": "papas fritas",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/potatochips.png",
+      "categoria": "Golosinas"
+    },
+    {
+      "id": 8,
+      "nombre": "tostacos",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/tostacos.png",
+      "categoria": "Golosinas"
+    }
+  ],
+  "favoritos": [
+    {
+      "id": 3,
+      "nombre": "Café",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/coffeClasic.png",
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 2,
+      "nombre": "carne roja",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/carne.png",
+      "categoria": "Carnes"
+    },
+    {
+      "id": 4,
+      "nombre": "Café en lata",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/coldBrewCoffee.png",
+      "categoria": "Bebidas"
+    }
+  ],
+  "carrito": [
+    {
+      "id": 3,
+      "nombre": "Café",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/coffeClasic.png",
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 1,
+      "nombre": "Aceite",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/aceite.png",
+      "categoria": "Básicos"
+    },
+    {
+      "id": 2,
+      "nombre": "carne roja",
+      "peso": "10",
+      "precio": 10.99,
+      "imagen": "imagenes/carne.png",
+      "categoria": "Carnes"
+    }
+  ],
+  "admin": [
+    {
+      "user": "antonio",
+      "password": "123"
+    }
+  ],
+  "compras": []
+}
